@@ -38,7 +38,7 @@ function main() {
       sum += numbers[i]
     }
     return sum
-  }
+  } 
 
   var result = calculeSum();
 

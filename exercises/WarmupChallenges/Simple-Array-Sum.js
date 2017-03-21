@@ -16,7 +16,7 @@ process.stdin.on('end', function() {
 
 function readLine() {
 	return input_stdin_array[input_currentline++];
-}
+} 
 
 /////////////// ignore above this line ////////////////////
 
